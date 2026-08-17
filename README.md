@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=865&height=44&lines=Building%20ML%20models%20to%20catch%20threats%20and%20analyze%20threats;Modeling%20with%20machine%20learning%2C%20one%20dataset%20at%20a%20time" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=865&height=44&lines=Building%20ML%20models%20to%20catch%20threats%20and%20analyze;Modeling%20with%20machine%20learning%2C%20one%20dataset%20at%20a%20time" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
